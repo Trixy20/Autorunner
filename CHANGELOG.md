@@ -1,0 +1,4 @@
+"""A really awesome package.
+
+...
+"""
